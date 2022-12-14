@@ -4,6 +4,7 @@ import requests
 avgX = list()
 avgY = list()
 
+##testing git updates
 
 trained_data = cv2.CascadeClassifier('./def.xml')
 webcam = cv2.VideoCapture(0)
